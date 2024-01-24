@@ -7,7 +7,7 @@
      ![image](https://github.com/Lunatico97/Self-Organizing-Maps/assets/60886553/b5575176-56f4-4d42-94e6-d65e6ed48ab7)
      
      ![image](https://github.com/Lunatico97/Self-Organizing-Maps/assets/60886553/819f7478-5751-43cb-8f08-19f09f205595)
-  2. Use SOM for color clustering to salvaga a kitty from its reality - Yeah, you heard it right !!
+  2. Use SOM for color clustering to salvage a kitty from its reality - Yeah, you heard it right !!
      
      ![image](https://github.com/Lunatico97/Self-Organizing-Maps/assets/60886553/38db5ca2-3ee5-4a06-9895-3af566ad8a6b)
      
